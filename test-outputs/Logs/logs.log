@@ -1,0 +1,1255 @@
+[DEBUG] [20-09-2025 08:51:29] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [20-09-2025 08:51:30] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [20-09-2025 08:53:47] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [20-09-2025 08:53:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [20-09-2025 08:53:58] [main] TESTING - good login
+[DEBUG] [20-09-2025 09:02:02] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [20-09-2025 09:02:03] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [20-09-2025 09:02:10] [main] TESTING - good login
+[DEBUG] [27-09-2025 10:09:43] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-09-2025 10:09:43] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:36:14] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:36:15] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:36:38] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:36:38] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:36:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:38:38] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:38:39] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:38:54] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:38:54] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:38:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:44:19] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:44:20] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:44:35] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:44:35] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:44:36] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:45:53] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:45:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:46:08] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:46:08] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:46:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:46:24] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:46:25] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:46:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:46:39] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:46:42] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:47:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:47:58] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:48:13] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:48:13] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:48:16] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:53:34] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:53:35] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:53:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:53:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:53:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:56:11] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:56:11] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:56:26] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:56:26] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:56:28] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 02:57:55] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 02:57:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 02:58:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 02:58:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 02:58:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 03:06:26] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 03:06:27] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 03:06:41] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [29-09-2025 03:06:41] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [29-09-2025 03:06:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [29-09-2025 04:19:49] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 04:19:49] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 04:20:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [29-09-2025 04:20:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [29-09-2025 04:21:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[INFO] [29-09-2025 04:21:32] [main] PagesComponents.NavigationBar - Verifying User Label: AutoTest
+[DEBUG] [29-09-2025 04:25:29] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 04:25:30] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 04:25:46] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email']
+[DEBUG] [29-09-2025 04:25:46] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [29-09-2025 04:25:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['error']
+[DEBUG] [29-09-2025 04:28:20] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 04:28:21] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 04:28:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email']
+[DEBUG] [29-09-2025 04:28:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [29-09-2025 04:28:48] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['error']
+[DEBUG] [29-09-2025 04:29:37] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [29-09-2025 04:29:38] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [29-09-2025 04:30:08] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [29-09-2025 04:30:08] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_password']
+[DEBUG] [29-09-2025 04:30:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['error']
+[DEBUG] [30-09-2025 16:53:29] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [30-09-2025 16:53:30] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [30-09-2025 16:54:48] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [30-09-2025 16:54:49] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [30-09-2025 17:00:47] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [30-09-2025 17:00:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [30-09-2025 17:01:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name_exist']
+[DEBUG] [30-09-2025 17:01:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email_exist']
+[DEBUG] [01-10-2025 09:45:47] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 09:45:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 09:48:41] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 09:48:42] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 09:51:53] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 09:51:54] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:04:40] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:04:41] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:10:35] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:10:36] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:16:45] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:16:46] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:38:00] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:38:01] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:39:11] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:39:12] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:42:47] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:42:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:47:41] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:47:41] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:52:27] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:52:28] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 10:53:31] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 10:53:32] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:02:17] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:02:18] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:06:56] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:06:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:10:01] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:10:02] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:15:07] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:15:07] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:20:10] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:20:11] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:23:55] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:23:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [01-10-2025 11:25:45] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [01-10-2025 11:25:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:32:54] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:32:55] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:36:34] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:36:35] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:47:08] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:47:08] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:49:23] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:49:23] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:50:36] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:50:36] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:55:33] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:55:34] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:56:18] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:56:18] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 07:56:53] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 07:56:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 08:04:04] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 08:04:05] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 09:17:30] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 09:17:31] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 09:19:04] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 09:19:05] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 09:20:43] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 09:20:44] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [02-10-2025 09:24:40] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [02-10-2025 09:24:40] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:37:49] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:37:50] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:39:44] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:39:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:44:01] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:44:02] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:45:32] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:45:33] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:47:01] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:47:01] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:48:15] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:48:16] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:50:13] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:50:14] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:50:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:50:52] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:54:46] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:54:47] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:57:48] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:57:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 10:58:11] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 10:58:11] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [06-10-2025 11:44:39] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [06-10-2025 11:44:41] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 02:09:26] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 02:09:26] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 02:09:44] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 02:09:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 02:12:00] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 02:12:01] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 02:12:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 02:12:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 02:12:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 02:15:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 02:15:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 02:38:50] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 02:38:51] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 02:39:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 02:39:10] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 02:39:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 02:40:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 02:40:29] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:07:36] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[DEBUG] [11-10-2025 04:08:05] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:08:05] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:09:21] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:09:22] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:09:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:09:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:26:11] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:26:12] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:26:31] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:26:31] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:26:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:29:26] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:29:26] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:29:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:29:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:29:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:32:02] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:32:03] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:33:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:33:59] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:34:37] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:34:38] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:34:48] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:34:48] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:34:49] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:41:44] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:41:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:41:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:41:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:41:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:42:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:42:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:44:55] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:44:55] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:45:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:45:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:46:29] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:46:30] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:46:41] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:46:41] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:46:44] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:47:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:47:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:47:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_name']
+[DEBUG] [11-10-2025 04:47:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_number']
+[DEBUG] [11-10-2025 04:47:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['cvc']
+[DEBUG] [11-10-2025 04:47:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_month']
+[DEBUG] [11-10-2025 04:47:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_year']
+[DEBUG] [11-10-2025 04:47:11] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['payment_message']
+[DEBUG] [11-10-2025 04:47:12] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['delete_message']
+[DEBUG] [11-10-2025 04:52:48] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:52:49] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:52:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [11-10-2025 04:52:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [11-10-2025 04:53:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:54:52] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:54:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:54:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:54:57] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:54:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 04:59:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 04:59:52] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 04:59:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 04:59:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 04:59:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 05:04:59] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 05:05:00] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 05:05:04] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 05:05:04] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 05:05:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [11-10-2025 05:06:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [11-10-2025 05:06:51] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [11-10-2025 05:06:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [11-10-2025 05:06:56] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [11-10-2025 05:06:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [21-10-2025 08:36:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:36:51] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:38:04] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:38:04] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:41:38] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:41:39] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:44:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 08:44:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email_format']
+[DEBUG] [21-10-2025 08:44:57] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:44:58] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:45:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 08:45:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email_format']
+[DEBUG] [21-10-2025 08:45:52] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:45:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:46:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 08:46:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['invalid_email_format']
+[DEBUG] [21-10-2025 08:46:34] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:46:35] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:46:58] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['error']
+[ERROR] [21-10-2025 08:46:58] [main] dataReader.JsonReader -  Error Loading Json Files
+[DEBUG] [21-10-2025 08:47:56] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:47:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:48:18] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['error']
+[ERROR] [21-10-2025 08:48:18] [main] dataReader.JsonReader -  Error Loading Json Files
+[DEBUG] [21-10-2025 08:51:43] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:51:44] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:53:59] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:54:00] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:54:04] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 08:54:25] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 08:54:26] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 08:54:31] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 08:54:31] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [21-10-2025 08:54:32] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [21-10-2025 09:06:59] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 09:07:00] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 09:07:09] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 09:07:09] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [21-10-2025 09:08:05] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 09:08:06] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 09:08:14] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 09:08:14] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [21-10-2025 09:08:17] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [21-10-2025 09:09:55] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 09:09:55] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 09:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 09:10:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [21-10-2025 09:10:01] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [21-10-2025 09:13:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 09:13:59] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 09:14:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 09:14:51] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [21-10-2025 09:14:57] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [21-10-2025 09:14:58] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [21-10-2025 09:15:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [21-10-2025 09:15:47] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [22-10-2025 08:46:43] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 08:46:44] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 08:46:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [22-10-2025 08:46:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [22-10-2025 08:47:03] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [22-10-2025 08:54:10] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 08:54:11] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 08:54:21] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [22-10-2025 08:54:21] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [22-10-2025 08:54:23] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [22-10-2025 09:23:45] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:23:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 09:24:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [22-10-2025 09:24:02] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [22-10-2025 09:24:04] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [22-10-2025 09:26:59] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:27:00] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 09:27:14] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [22-10-2025 09:27:14] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [22-10-2025 09:28:20] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[INFO] [22-10-2025 09:28:21] [main] PagesComponents.NavigationBar - Verifying User Label: AutoTest
+[DEBUG] [22-10-2025 09:53:05] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:53:06] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 09:54:07] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:54:08] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 09:55:01] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:55:01] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 09:58:21] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 09:58:22] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:01:34] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:01:34] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:03:01] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:03:01] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:12:30] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:12:31] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:14:37] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:14:37] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:15:39] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:15:40] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:16:15] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:16:16] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:23:40] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:23:41] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:29:35] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:29:35] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:29:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:29:52] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:32:18] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:32:18] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [22-10-2025 10:35:31] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [22-10-2025 10:35:32] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 08:33:08] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 08:33:09] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 08:33:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [26-10-2025 08:33:25] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [26-10-2025 08:33:27] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [26-10-2025 08:36:20] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 08:36:21] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 08:36:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[DEBUG] [26-10-2025 08:36:30] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['email']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['password']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['day']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['month']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['year']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [26-10-2025 08:36:33] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [26-10-2025 08:36:50] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['title_male']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['first_name']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['last_name']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['company']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_one']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['address_two']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['city']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['state']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['zipcode']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['country']
+[DEBUG] [26-10-2025 08:36:52] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['mobile_number']
+[DEBUG] [26-10-2025 08:36:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_name']
+[DEBUG] [26-10-2025 08:36:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_number']
+[DEBUG] [26-10-2025 08:36:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['cvc']
+[DEBUG] [26-10-2025 08:36:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_month']
+[DEBUG] [26-10-2025 08:36:55] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['card_year']
+[DEBUG] [26-10-2025 08:36:59] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['payment_message']
+[DEBUG] [26-10-2025 08:37:00] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['delete_message']
+[DEBUG] [26-10-2025 09:31:07] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:31:07] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:31:38] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:31:39] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:34:36] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:34:37] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:34:44] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:34:45] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:35:28] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:35:29] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:35:59] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:36:00] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:41:20] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:41:21] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 09:51:53] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 09:51:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:09:07] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:09:08] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:15:16] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:15:16] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:15:33] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:15:33] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:41:41] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:41:41] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:42:12] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:42:12] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:48:21] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:48:22] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [26-10-2025 10:50:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [26-10-2025 10:50:59] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:48:55] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:48:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:49:13] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:49:13] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:50:57] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:50:57] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:52:45] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:52:46] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:55:52] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:55:53] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 08:56:15] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 08:56:16] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:01:09] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:01:09] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:01:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:01:58] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:09:39] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:09:40] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:12:49] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:12:49] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:15:58] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:15:59] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:18:56] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 09:18:56] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 09:19:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_email']
+[DEBUG] [27-10-2025 09:19:06] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['valid_password']
+[DEBUG] [27-10-2025 09:19:07] [main] com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+[INFO] [27-10-2025 09:21:34] [main] PagesComponents.NavigationBar - Verifying User Label: AutoTest
+[DEBUG] [27-10-2025 10:22:48] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 10:22:48] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 10:27:10] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 10:27:10] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[DEBUG] [27-10-2025 10:43:21] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [27-10-2025 10:43:21] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+

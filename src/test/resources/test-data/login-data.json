@@ -1,0 +1,8 @@
+{
+  "name": "AutoTest",
+  "valid_email": "automation_test2025@gmail.com",
+  "invalid_email": "autotest2025.com",
+  "valid_password": "12345678",
+  "invalid_password": "12345678910",
+  "error_login": "Your email or password is incorrect!"
+}
