@@ -23,9 +23,9 @@ public class ActionBot {
                 WebElement element = driver.findElement(locator);
                 scrollToElement(locator);
                 element.click();
-                return true; // لو اتعمل كليك بيرجع true
+                return true;
             } catch (Exception e) {
-                return false; // لو في Exception هيجرب تاني
+                return false;
             }
         });
     }
@@ -36,9 +36,9 @@ public class ActionBot {
                 new Actions(driver).scrollToElement(element).perform();
                 element.clear();
                 element.sendKeys(text);
-                return true; // لو اتعمل كليك بيرجع true
+                return true;
             } catch (Exception e) {
-                return false; // لو في Exception هيجرب تاني
+                return false;
             }
         });
     }
@@ -50,9 +50,9 @@ public class ActionBot {
                 WebElement element = driver.findElement(locator);
                 new Actions(driver).scrollToElement(element).perform();
                 String msg = element.getText();
-                return !msg.isEmpty() ? msg : null; // لو فاضي يرجع null عشان يعيد المحاولة
+                return !msg.isEmpty() ? msg : null;
             } catch (Exception e) {
-                return null; // يحصل Exception → هيجرب تاني
+                return null;
             }
         });
     }
@@ -93,7 +93,7 @@ public class ActionBot {
                 scrollToElement(locator);
                 return element.getAttribute("value");
             } catch (Exception e) {
-                return null; // لو في Exception يرجّع null علشان الwait يجرب تاني
+                return null;
             }
         });
     }

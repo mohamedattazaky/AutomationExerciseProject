@@ -1253,3 +1253,35 @@
 [INFO] [27-10-2025 10:43:21] [main] org.testng.internal.Utils - [TestNG] Running:
   C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
 
+[DEBUG] [28-10-2025 04:18:10] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [28-10-2025 04:18:11] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [28-10-2025 04:18:25] [main] pages.HomePage - 📩 Entering subscription email: autotest@gmail.com
+[INFO] [28-10-2025 04:18:25] [main] pages.HomePage - 🔘 Clicking on Subscribe button.
+[INFO] [28-10-2025 04:18:26] [main] pages.HomePage - 🔍 Verifying subscription confirmation message.
+[INFO] [28-10-2025 04:18:26] [main] pages.HomePage - ✅ Subscription completed successfully for email: autotest@gmail.com
+[DEBUG] [28-10-2025 08:03:19] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[DEBUG] [28-10-2025 08:03:19] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [28-10-2025 08:03:20] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [28-10-2025 08:03:20] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [28-10-2025 08:04:01] [main] pages.CartPage - 🔍 Verifying product details in cart for product: Blue Top
+[INFO] [28-10-2025 08:04:07] [main] pages.CartPage - 🔍 Verifying product details in cart for product: Blue Top
+[DEBUG] [28-10-2025 08:04:51] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [28-10-2025 08:04:51] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [28-10-2025 08:05:04] [main] pages.CartPage - 🔍 Verifying product details in cart for product: Blue Top
+[DEBUG] [28-10-2025 08:14:08] [main] org.testng.TestNG - suiteXmlPath: "C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+[INFO] [28-10-2025 08:14:08] [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\M'Atta\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO] [28-10-2025 08:14:21] [main] pages.CartPage - 🔍 Verifying product details in cart for product: Blue Top
+[INFO] [28-10-2025 08:14:22] [main] pages.CartPage - Expected vs Actual -> Name: Blue Top / Blue Top
+[INFO] [28-10-2025 08:14:22] [main] pages.CartPage - Expected vs Actual -> Price: Rs. 500 / Rs. 500
+[INFO] [28-10-2025 08:14:22] [main] pages.CartPage - Expected vs Actual -> Quantity: 1 / 1
+[INFO] [28-10-2025 08:14:22] [main] pages.CartPage - Expected vs Actual -> Total: Rs. 500 / Rs. 500

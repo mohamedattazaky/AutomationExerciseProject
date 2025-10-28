@@ -47,12 +47,10 @@ public class CartPage {
     }
     public void verifyProductDetailsOnCart(String pName, String pPrice, String pQuantity, String pTotal) {
         LogsManager.info("🔍 Verifying product details in cart for product: " + pName);
-
         String actualName = actionBot.getText(productName(pName));
-        String actualPrice = actionBot.getText(productPrice(pPrice));
-        String actualQuantity = actionBot.getText(productQuantity(pQuantity));
-        String actualTotal = actionBot.getText(productTotal(pTotal));
-
+        String actualPrice = actionBot.getText(productPrice(pName));
+        String actualQuantity = actionBot.getText(productQuantity(pName));
+        String actualTotal = actionBot.getText(productTotal(pName));
         LogsManager.info("Expected vs Actual -> Name: " + pName + " / " + actualName);
         LogsManager.info("Expected vs Actual -> Price: " + pPrice + " / " + actualPrice);
         LogsManager.info("Expected vs Actual -> Quantity: " + pQuantity + " / " + actualQuantity);
@@ -63,5 +61,6 @@ public class CartPage {
         validation.assertEquals(actualQuantity, pQuantity, "❌ Actual quantity does not match expected quantity.");
         validation.assertEquals(actualTotal, pTotal, "❌ Actual total does not match expected total.");
     }
+
 
 }
